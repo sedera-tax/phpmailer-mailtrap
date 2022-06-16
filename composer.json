@@ -1,0 +1,13 @@
+{
+    "name": "sedera-tax/mailtrap",
+    "require": {
+        "phpmailer/phpmailer": "^6.6",
+        "vlucas/phpdotenv": "^5.4"
+    },
+    "authors": [
+        {
+            "name": "sedera-tax",
+            "email": "sedera.aina@gmail.com"
+        }
+    ]
+}
